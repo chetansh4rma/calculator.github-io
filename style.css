@@ -1,0 +1,45 @@
+.container{
+    margin-top: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .mx-red{
+    background-color: red;
+} */
+/* .mx-auto{
+    margin:auto;
+
+} */
+.flex{
+    display: flex;
+}
+
+.flex-col{
+ flex-direction: column;
+}
+.row{
+margin:5px 0;
+}
+.button{
+    height: 40px;
+    width: 40px;
+    border:2px solid black;
+    border-radius:5px;
+    margin:0px 2px;
+    cursor:pointer;
+}
+.input{
+    /* height: 50px; */
+border: 2px solid black;
+margin-bottom: 20px;
+ 
+
+}
+.input1 input{
+    margin: 0;
+    padding: 10px ;
+    padding: 10px;
+    font-size: 13px;
+
+}
